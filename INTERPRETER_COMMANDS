@@ -5,3 +5,5 @@ listing(functor). -> List all the information in the knowledge about
 ['*.pl'] 	  -> Load a file with their path. 
 
 unify_with_occurs_check(..,..). -> Evaluate the unification between expresions.
+
+\  -> The oppsite way to =.
