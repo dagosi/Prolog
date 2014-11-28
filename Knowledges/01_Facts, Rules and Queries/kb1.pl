@@ -1,5 +1,5 @@
 %% Knowledge 1:
-%% A first approach to the Prolog languaje.
+%% A first approach to the Prolog language.
 
 %% Facts declarations.
 woman(mia).
